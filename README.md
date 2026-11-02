@@ -910,32 +910,32 @@ Main lesson:
 Implemented:
 
 ```text
-✅ 24/7 monitoring
-✅ 60-second polling
-✅ API-based ingestion
-✅ listing deduplication
-✅ detailed listing retrieval
-✅ optional Amsterdam filtering
-✅ Telegram notifications
-✅ multiple Telegram recipients/group support
-✅ SQLite persistence
-✅ systemd auto-start
-✅ restart after reboot
-✅ remote management through Tailscale + SSH
-✅ journald logging
-✅ explicit SQLite connection cleanup
+24/7 monitoring
+60-second polling
+API-based ingestion
+listing deduplication
+detailed listing retrieval
+optional Amsterdam filtering
+Telegram notifications
+multiple Telegram recipients/group support
+SQLite persistence
+systemd auto-start
+restart after reboot
+remote management through Tailscale + SSH
+journald logging
+explicit SQLite connection cleanup
 ```
 
 Planned:
 
 ```text
-⬜ health alerts
-⬜ notification delivery state
-⬜ retries/backoff
-⬜ unit/integration tests
-⬜ structured metrics
-⬜ additional housing providers
-⬜ optional PostgreSQL migration
+health alerts
+notification delivery state
+retries/backoff
+unit/integration tests
+structured metrics
+additional housing providers
+optional PostgreSQL migration
 ```
 
 ---
